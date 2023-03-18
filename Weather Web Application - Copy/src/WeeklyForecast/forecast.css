@@ -1,0 +1,53 @@
+.searchSection{
+    display: flex;
+    justify-content: center;
+}
+
+.searchBar {
+    width: 75vw !important; /*changed the width*/
+    /* Sets the width of the search bar to 35% of the viewport width */
+    height: 8vh;
+    /* Sets the height of the search bar to 100 pixels */
+    border: none;
+    /* Removes the border of the search bar */
+    outline: none;
+    /* Removes the outline of the search bar */
+    border-radius: 50px;
+    /* Sets the border radius of the search bar to 50 pixels */
+    padding: 1vh 1vw 1vh 1vw !important;
+    /* Sets the padding of the search bar */
+    background: #7c7c7c2b;
+    /* Sets the background color and transparency of the search bar */
+    color: white;
+    /* Sets the text color of the search bar to white */
+    font-size: 200%;
+    /* Sets the font size of the search bar to 80% */
+    margin-right: 1vw;
+    margin-top: 2vh;
+}
+
+.searchButton {
+    width: 8vh !important;
+    height: 8vh !important;
+    border-radius: 50%;
+    border: none;
+    background: #7c7c7c2b;
+    color: white;
+    margin-top: 2vh;
+    font-size: 130%;
+}
+
+.searchButton:hover {
+    background: #7c7c7c6b;
+    /*hover effect*/
+}
+
+.forecastCardGroup{
+    margin-top: 10vh;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+.card{
+    background: rgba(255, 255, 255, 0.9);
+}
