@@ -1,0 +1,13 @@
+#root{
+    background-image: url("../assets/forecastbackground.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    width: 100vw;
+}
+
+.forecastIcon{
+    width: min-content;
+    height: min-content;
+    align-self: center;
+
+}
