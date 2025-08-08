@@ -152,24 +152,6 @@ const App = () => {
           <a href="/WeeklyForecast/"> Weekly Forecast</a>
         </Offcanvas.Body>
       </Offcanvas>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
     </Row>
   );
 };
